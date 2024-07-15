@@ -1,7 +1,7 @@
 {
-  "name": "Josie-purba-portfolio",
+  "name": "josie-purba-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Josiepurba.github.io",
+  "homepage": "https://rishavchanda.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
